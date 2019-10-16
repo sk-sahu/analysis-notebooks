@@ -1,0 +1,13 @@
+name: variant_call
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - picard=2.20.2
+  - bwa=0.7.17
+  - samtools=1.9
+  - gatk4=4.1.2.0
+  - circos=0.69.6
+  - fastp=0.20.0
+  - snpeff=4.3.1t
