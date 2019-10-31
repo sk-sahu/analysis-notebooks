@@ -4,5 +4,5 @@
 
 ## Variant Calling
 Call variation in genome.
-- [Using GATK](variant_calling/variant_call.md)
+- [Using GATK](variant_calling/vartiant_call.md)
 - [Using Freebayes](variant_calling/with_freebayes.md)
