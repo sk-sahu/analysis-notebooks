@@ -2,14 +2,5 @@
 title: notebooks
 author: Sangram Keshari Sahu
 
-minima:
-  date_format: "%b %-d, %Y"
-
-  # generate social links in footer
-  social_links:
-    twitter: sangram_ksahu
-    github:  sk-sahu
-    rss: rss
-
 # Build settings
 theme: minima
