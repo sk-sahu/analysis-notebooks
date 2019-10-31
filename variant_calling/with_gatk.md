@@ -1,6 +1,3 @@
-# Variant Calling
-Starting from raw reads (.fastq) to calling variants (.vcf) and their downstream analysis.
-
 ## Tools Required:
 * BWA 
 * Picard 
