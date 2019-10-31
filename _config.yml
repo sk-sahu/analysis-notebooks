@@ -1,13 +1,15 @@
-# Ref: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+# Ref: https://github.com/jekyll/minima/blob/master/_config.yml
 title: notebooks
 author: Sangram Keshari Sahu
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Edit on GitHub: "http://github.com/sk-sahu/notebooks"
-    - More Updates: "http://github.com/sk-sahu/notebooks/updates"
-  Author's home: "http://sksahu.net"
-avatar: "https://en.gravatar.com/userimage/106623089/d41b52d459d97d9a510c946c419cc2a1?size=100"
-social-network-links:
-  github: sk-sahu
-  twitter: sangram_ksahu
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: sangram_ksahu
+    github:  sk-sahu
+    rss: rss
+
+# Build settings
+theme: minima
