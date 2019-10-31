@@ -1,5 +1,5 @@
 # Here we will demonstarte variant calling using freebayes
-The steps-1 to 6 will be the same as of mentioned [here](https://github.com/sk-sahu/notebooks/blob/master/vartiant_call.md)
+The steps 1 to 6 will be the same as of mentioned [here](with_gatk.md)
 
 ## Enviroment
 This suppose your are in the `variant_call` conda enviroment. Otheriwise activate it - `conda activate variant_call`.
