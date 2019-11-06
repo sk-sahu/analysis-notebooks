@@ -3,3 +3,4 @@ Starting from raw reads (.fastq) to calling variants (.vcf) and their downstream
 
 - [With GATK](with_gatk.md)
 - [with Freebayes](with_freebayes.md)
+- [Compare VCF files](compare_vcf.md)
